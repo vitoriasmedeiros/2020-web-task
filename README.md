@@ -1,7 +1,7 @@
 # App Web Exemplo
 
-**aluno**: 
-[heroku app](https://herokuapp.com/)
+- **aluno**: 
+- [heroku app](https://herokuapp.com/)
 
 ## Infomações gerais da disciplina
 
